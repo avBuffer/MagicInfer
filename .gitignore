@@ -3,3 +3,6 @@
 /lib*
 /log*
 /out*
+
+# file
+.avBuffer_classic_token
