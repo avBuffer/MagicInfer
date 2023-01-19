@@ -1,0 +1,16 @@
+/home/jalymo/work/ai/MagicInfer/build/CMakeFiles/magic.dir
+/home/jalymo/work/ai/MagicInfer/build/CMakeFiles/test.dir
+/home/jalymo/work/ai/MagicInfer/build/CMakeFiles/edit_cache.dir
+/home/jalymo/work/ai/MagicInfer/build/CMakeFiles/rebuild_cache.dir
+/home/jalymo/work/ai/MagicInfer/build/demo/CMakeFiles/yolo_infer.dir
+/home/jalymo/work/ai/MagicInfer/build/demo/CMakeFiles/test.dir
+/home/jalymo/work/ai/MagicInfer/build/demo/CMakeFiles/edit_cache.dir
+/home/jalymo/work/ai/MagicInfer/build/demo/CMakeFiles/rebuild_cache.dir
+/home/jalymo/work/ai/MagicInfer/build/bench/CMakeFiles/bench_magic.dir
+/home/jalymo/work/ai/MagicInfer/build/bench/CMakeFiles/test.dir
+/home/jalymo/work/ai/MagicInfer/build/bench/CMakeFiles/edit_cache.dir
+/home/jalymo/work/ai/MagicInfer/build/bench/CMakeFiles/rebuild_cache.dir
+/home/jalymo/work/ai/MagicInfer/build/test/CMakeFiles/test_magic.dir
+/home/jalymo/work/ai/MagicInfer/build/test/CMakeFiles/test.dir
+/home/jalymo/work/ai/MagicInfer/build/test/CMakeFiles/edit_cache.dir
+/home/jalymo/work/ai/MagicInfer/build/test/CMakeFiles/rebuild_cache.dir

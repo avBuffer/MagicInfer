@@ -1,0 +1,5 @@
+7767517
+3 2
+pnnx.Input               pnnx_input_0             0 1 0 #0=(8,32,16,16)f32
+nn.BatchNorm2d           bn1                      1 1 0 1 affine=True eps=1.000000e-05 num_features=32 @bias=(32)f32 @running_mean=(32)f32 @running_var=(32)f32 @weight=(32)f32 #0=(8,32,16,16)f32 #1=(8,32,16,16)f32
+pnnx.Output              pnnx_output_0            1 0 1 #1=(8,32,16,16)f32
